@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089813305534",
+    "project_id": "easy-parking-ae9be",
+    "storage_bucket": "easy-parking-ae9be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089813305534:android:13659e8377040cb98da6ef",
+        "android_client_info": {
+          "package_name": "com.example.easyparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089813305534-8iq7rpe53ph41gbj2n79qu4pbk952msd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvclKYTYhdPPwZl84bEl8M7knGDklOu3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089813305534-8iq7rpe53ph41gbj2n79qu4pbk952msd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
